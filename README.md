@@ -1,2 +1,2 @@
 # SomePythonStuff
-There is some python code's from my high school and my own work.
+There is some python code's that i created.
